@@ -9,8 +9,17 @@ export default {
 </script>
 
 <template>
-	<h1>Here are many child components!</h1>
-	<ButtonCounter />
-	<ButtonCounter />
-	<ButtonCounter />
+	<h1 class="center">Here are many child components!</h1>
+		<div class="center">
+		<ButtonCounter />
+		<ButtonCounter />
+		<ButtonCounter />
+	</div>
 </template>
+
+<style>
+	.center{
+		text-align: center;
+	}
+
+</style>
