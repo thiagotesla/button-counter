@@ -1,6 +1,6 @@
 <script>
 export default {
-  counting() {
+  data() {
     return {
       count: 0
     }
