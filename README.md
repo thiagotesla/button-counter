@@ -1,8 +1,8 @@
 #  count-button
 
-This template should help get you started developing with Vue 3 in Vite.
+Creating a button counter component with VueJS.
 
-<p align="center">
+<p>
  <img style="margin-top:10px;" src="https://hsro-inf-wt.github.io/assets/vuejs.gif" width="400px">
  </p>
 
